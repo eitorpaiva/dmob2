@@ -10,5 +10,11 @@
     "email": "lucas@gmail.com",
     "phone": "67 999999999",
     "address": "Rua das Carmelias"
+  },
+  {
+    "name": "Armando Pinto",
+    "email": "armando@gmail.com",
+    "phone": "67 999999999",
+    "address": "Rua Rolando Gaspar Dutra"
   }
 ]
